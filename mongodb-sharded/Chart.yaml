@@ -4,7 +4,7 @@ apiVersion: v1
 appVersion: 4.4.6
 dependencies:
   - name: common
-    repository: https://charts.bitnami.com/bitnami
+    repository: https://github.com/csokai/argocd-example-apps/edit/master/mongodb-sharded
     tags:
       - bitnami-common
     version: 1.x.x
